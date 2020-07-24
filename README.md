@@ -1,6 +1,7 @@
-# Magento 2 removal of all optional GraphQL modules
-This repository contains a composer meta-package that removes optional GraphQL modules. To install, use the following:
+# Magento 2 removal of optional modules
+This repository contains a composer meta-package that removes optional modules. To install this package, use the following:
 
-    composer require yireo/magento2-replace-graphql:2.3.1
-    
-See also the package `yireo/magento2-replace-all`.
+    composer require yireo/magento2-replace-graphql
+
+## Notes
+See the package [`yireo/magento2-replace-tools`.](https://github.com/yireo/magento2-replace-tools) for more information
